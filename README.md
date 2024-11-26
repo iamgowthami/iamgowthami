@@ -1,51 +1,21 @@
-# Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="33px"> I am  Gowthami Reddy.
 
-### I'm an Automation Test Engineer at NetXplore Technologies Pvt Ltd. I have good knowledge in Java with different testing tools like Selenium, Postman, Cucumber, Maven, etc....
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamgowthami&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamgowthami&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgowthami&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamgowthami&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-## 👩‍💻 Programming Skills 
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/java.svg" />](https://www.oracle.com/in/java/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/angularjs.svg" />](https://www.w3schools.com/angular/angular_intro.asp) &nbsp;
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://docs.python.org/3/tutorial/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/html5.svg" />](https://www.w3schools.com/html/default.asp/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/css3.svg" />](https://www.w3schools.com/css/default.asp) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/php.svg" />](https://www.w3schools.com/php/default.asp) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/Animation.gif" />](https://www.w3schools.com/bootstrap5/index.php) &nbsp;
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamgowthami&limit=5&theme=default&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=iamgowthami&icon=0&color=3)](https://visitcount.itsvg.in)
 
-
-
-
-## 🧰 Tools Knowledge 
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1920px-Selenium_logo.svg.png" />](https://www.selenium.dev/documentation/webdriver/getting_started/)&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/postman.svg" />](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1920px-Apache_Maven_logo.svg.png" />](https://maven.apache.org/guides/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" />](https://www.jenkins.io/doc/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />](https://github.com)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png" />](https://www.w3schools.com/sql/default.asp)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Microsoft_365.svg/1920px-Microsoft_365.svg.png" />](https://www.makeuseof.com/tag/microsoft-office-tutorials-courses/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://www.linux.org/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
